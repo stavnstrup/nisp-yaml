@@ -1,0 +1,45 @@
+---
+element: Serviceprofile
+nispid: bsp-Wireless_LOS_Mobile_Narrowband_Transmission_Services
+url: /serviceprofile/bsp-Wireless_LOS_Mobile_Narrowband_Transmission_Services.html
+sptype: bsp
+title: NISP BSSP for Wireless_LOS_Mobile_Narrowband_Transmission_Services
+profilespec:
+  org: c3b-ipcat
+  pubnum: STANAG 5524ed2
+  title: NATO Interoperability Standards and Profiles (NISP)
+  date: 2013-11-24
+  version: 
+taxonomy:
+  - T-cf5a3df7-cff8-4a27-abdc-a40b32b9f0c4-X
+refgroup:
+  - obligation: mandatory
+    lifecycle: current
+    standards: 
+    - refid: nato-stanag4203ed3
+    - refid: nato-stanag4204ed3
+    - refid: nato-acomp-4205-ed.a-v1
+    - refid: nato-stanag4484ed3
+    description: 
+  - obligation: mandatory
+    lifecycle: candidate
+    standards: 
+    - refid: nato-stanag4444ed2
+    description: 
+status:
+  uri: 
+  history: 
+    - flag: added
+      date: 1998-12-08
+      rfcp: 
+      version: 0.1
+    - flag: changed
+      date: 2013-11-24
+      rfcp: 
+      version: 8.0
+uuid: 9c143a2f-00ef-4733-9e9b-acb539088d9b
+parents:
+  - refid: bsp
+    type: profile
+    title: NISP Basic Standards profile
+---

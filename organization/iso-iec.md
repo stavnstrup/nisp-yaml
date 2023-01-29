@@ -1,0 +1,183 @@
+---
+element: Organizations
+nispid: iso-iec
+url: /organization/iso-iec.html
+key: iso-iec
+short: ISO/IEC
+long: ISO/IEC
+uri: https://www.iso.org/
+stuff:
+  standards:
+    owns: 161
+    references:
+    - iso-iec-10021
+    - iso-iec-10026-6
+    - iso-iec-10181-1
+    - iso-iec-10181-2
+    - iso-iec-10181-3
+    - iso-iec-10181-4
+    - iso-iec-10181-5
+    - iso-iec-10181-6
+    - iso-iec-10181-7
+    - iso-iec-10589
+    - iso-iec-10746
+    - iso-iec-10746-1
+    - iso-iec-10746-2
+    - iso-iec-10746-3
+    - iso-iec-10746-4
+    - iso-iec-10918-1
+    - iso-iec-10918-3
+    - iso-iec-10918-4
+    - iso-iec-11172
+    - iso-iec-11172-1
+    - iso-iec-11172-2
+    - iso-iec-11172-3
+    - iso-iec-11172-4
+    - iso-iec-11172-5
+    - iso-iec-11179-3
+    - iso-iec-11801
+    - iso-iec-11801-1
+    - iso-iec-12087-5
+    - iso-iec-12087-5-cor1
+    - iso-iec-12087-5-cor2
+    - iso-iec-13522-1
+    - iso-iec-13522-3
+    - iso-iec-13522-4
+    - iso-iec-13522-5
+    - iso-iec-13522-6
+    - iso-iec-13522-7
+    - iso-iec-13522-8
+    - iso-iec-13818
+    - iso-iec-13818-1
+    - iso-iec-13818-10
+    - iso-iec-13818-11
+    - iso-iec-13818-2
+    - iso-iec-13818-3
+    - iso-iec-13818-4
+    - iso-iec-13818-6
+    - iso-iec-13818-7
+    - iso-iec-13818-9
+    - iso-iec-14443
+    - iso-iec-14443-1
+    - iso-iec-14443-2
+    - iso-iec-14443-3
+    - iso-iec-14443-4
+    - iso-iec-14496
+    - iso-iec-14496-1
+    - iso-iec-14496-10
+    - iso-iec-14496-11
+    - iso-iec-14496-12
+    - iso-iec-14496-13
+    - iso-iec-14496-14
+    - iso-iec-14496-15
+    - iso-iec-14496-16
+    - iso-iec-14496-17
+    - iso-iec-14496-18
+    - iso-iec-14496-19
+    - iso-iec-14496-2
+    - iso-iec-14496-20
+    - iso-iec-14496-21
+    - iso-iec-14496-22
+    - iso-iec-14496-3
+    - iso-iec-14496-4
+    - iso-iec-14496-5
+    - iso-iec-14496-6
+    - iso-iec-14496-7
+    - iso-iec-14496-8
+    - iso-iec-14496-9
+    - iso-iec-14598-2
+    - iso-iec-14598-3
+    - iso-iec-14750
+    - iso-iec-15408
+    - iso-iec-15408-1
+    - iso-iec-15408-2
+    - iso-iec-15408-3
+    - iso-iec-15444-1
+    - iso-iec-15444-1-2019
+    - iso-iec-15444-11
+    - iso-iec-15444-12
+    - iso-iec-15444-2
+    - iso-iec-15444-3
+    - iso-iec-15444-5
+    - iso-iec-15444-6
+    - iso-iec-15444-8
+    - iso-iec-15444-9
+    - iso-iec-15445
+    - iso-iec-15455
+    - iso-iec-17203
+    - iso-iec-17788
+    - iso-iec-17789
+    - iso-iec-17826
+    - iso-iec-17963
+    - iso-iec-19099
+    - iso-iec-19794-2
+    - iso-iec-19794-5
+    - iso-iec-19794-6
+    - iso-iec-19944
+    - iso-iec-26300-1-2015
+    - iso-iec-26300-2-2015
+    - iso-iec-26300-2006
+    - iso-iec-26300-3-2015
+    - iso-iec-29500-1-2012
+    - iso-iec-29500-1-2016
+    - iso-iec-29500-2-2012
+    - iso-iec-29500-3-2015
+    - iso-iec-29500-4-2016
+    - iso-iec-3166-1
+    - iso-iec-3166-2
+    - iso-iec-3166-3
+    - iso-iec-7498-1
+    - iso-iec-7501
+    - iso-iec-7942-1
+    - iso-iec-7942-2
+    - iso-iec-7942-3
+    - iso-iec-7942-4
+    - iso-iec-8072
+    - iso-iec-8073
+    - iso-iec-8326
+    - iso-iec-8602
+    - iso-iec-8802-11
+    - iso-iec-8802-12
+    - iso-iec-8802-2
+    - iso-iec-8802-3
+    - iso-iec-9075-1
+    - iso-iec-9075-10
+    - iso-iec-9075-11
+    - iso-iec-9075-14
+    - iso-iec-9075-2
+    - iso-iec-9075-3
+    - iso-iec-9075-4
+    - iso-iec-9075-9
+    - iso-iec-9548-1
+    - iso-iec-9594
+    - iso-iec-9594-8
+    - iso-iec-9594-8:2020
+    - iso-iec-9636-1
+    - iso-iec-9636-2
+    - iso-iec-9636-3
+    - iso-iec-9636-4
+    - iso-iec-9636-5
+    - iso-iec-9636-6
+    - iso-iec-fcd18023-1
+    - iso-iec-tr15504-1
+    - iso-iec-tr15504-2
+    - iso-iec-tr15504-3
+    - iso-iec-tr15504-4
+    - iso-iec-tr15504-5
+    - iso-iec-tr15504-6
+    - iso-iec-tr15504-7
+    - iso-iec-15948
+    - iso-iec-13818-7-amd1
+    - iso-iec-13818-7-cor1
+    - iso-iec-13818-7-cor2
+    - iso-iec-14496-10-2022
+  capabilityprofiles:
+    owns: 0
+    references:
+  profiles:
+    owns: 0
+    references:
+  serviceprofiles:
+    owns: 0
+    references:
+---

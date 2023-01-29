@@ -1,0 +1,106 @@
+---
+element: Responsible Party
+nispid: ncia-nsii
+url: /responsibleparty/ncia-nsii.html
+key: ncia-nsii
+short: NCIA/NSII
+long: NCIA/NSII
+responsible:
+  number: 95
+  standards:
+    - bluetooth-bluetooth42
+    - bluetooth-bluetooth5
+    - cjcsm-sss-m-10001
+    - ecma-368
+    - eia-rs-232
+    - eia-rs-422-423
+    - eia-tia-eia-492000-a
+    - etsi-en300421
+    - etsi-en300468
+    - etsi-en300961
+    - etsi-en300969
+    - etsi-en301790
+    - etsi-en302307
+    - etsi-ts102-624-1
+    - ieee-1588-ptp
+    - ieee-802.15.4
+    - ieee-802.16e
+    - ieee-802.16e-wibro
+    - ieee-802.1ab
+    - ieee-802.1d
+    - ieee-802.1p
+    - ieee-802.1q
+    - ieee-802.1q-2011
+    - ieee-802.1s
+    - ieee-802.1w
+    - ieee-802.20
+    - ietf-rfc1042
+    - ietf-rfc1104
+    - ietf-rfc1403
+    - ietf-rfc1584
+    - ietf-rfc1643
+    - ietf-rfc1661
+    - ietf-rfc1662
+    - ietf-rfc1883
+    - ietf-rfc1990
+    - ietf-rfc2080
+    - ietf-rfc2236
+    - ietf-rfc2328
+    - ietf-rfc2452
+    - ietf-rfc2454
+    - ietf-rfc2461
+    - ietf-rfc2462
+    - ietf-rfc2463
+    - ietf-rfc2472
+    - ietf-rfc2644
+    - ietf-rfc2765
+    - ietf-rfc2858
+    - ietf-rfc2893
+    - ietf-rfc3315
+    - ietf-rfc3344
+    - ietf-rfc3513
+    - ietf-rfc3633
+    - ietf-rfc3697
+    - ietf-rfc3736
+    - ietf-rfc3768
+    - ietf-rfc3775
+    - ietf-rfc3831
+    - ietf-rfc4460
+    - ietf-rfc4728
+    - ietf-rfc4960
+    - ietf-rfc768
+    - ietf-rfc791
+    - ietf-rfc792
+    - ietf-rfc826
+    - ietf-rfc854
+    - ietf-rfc855
+    - ietf-rfc894
+    - ietf-rfc919
+    - ietf-rfc922
+    - ietf-rfc950
+    - ietf-std89
+    - iso-iec-10026-6
+    - iso-iec-10589
+    - iso-iec-11172-1
+    - iso-iec-11172-2
+    - iso-iec-11172-3
+    - iso-iec-11172-5
+    - iso-iec-8072
+    - iso-iec-8073
+    - iso-iec-8326
+    - iso-iec-8602
+    - iso-iec-8802-11
+    - iso-iec-8802-12
+    - iso-iec-8802-2
+    - iso-iec-8802-3
+    - iso-iec-9548-1
+    - itu-t-g.703
+    - itu-t-g.993.2
+    - itu-t-h.248.1
+    - itu-t-h.320
+    - itu-t-t.120
+    - itu-t-t.30
+    - itu-t-t.38
+    - itu-t-t.4
+    - itu-t-t.6
+---
